@@ -1,0 +1,8 @@
+{
+    "C_Cpp.default.configurationProvider": "ms-vscode.cmake-tools",
+    "cmake.options.statusBarVisibility": "visible",
+    "files.associations": {
+        "xstring": "cpp",
+        "ostream": "cpp"
+    }
+}
